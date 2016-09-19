@@ -6,7 +6,6 @@ __author__ = ''
 '''
 JSON API definition.
 '''
-
 import json, logging, inspect, functools
 
 class Page(object):

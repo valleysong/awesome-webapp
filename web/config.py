@@ -7,7 +7,7 @@ Configuration
 
 __author__ = ''
 
-import web.config_default as config_default
+import config_default as config_default
 
 class Dict(dict):
     '''
